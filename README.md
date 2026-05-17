@@ -1,0 +1,2 @@
+# Optimizing-Conference-Carolinas-Travel-Using-Graph-Theory-and-Integer-Programming
+This repository contains an optimized schedule model using Graph Theory &amp; Linear Programming to fix Conference Carolinas Women’s Soccer travel inefficiencies. Minimizes non-divisional mileage via integer optimization while keeping a strict round-robin structure. Includes the OpenSolver matrix dataset, presentation, etc.
