@@ -1,5 +1,5 @@
 # Optimizing-Conference-Carolinas-Travel-Using-Graph-Theory-and-Integer-Programming
-This repository is from a mathematics capstone research class (Math 499) at Francis Marion University and was presented at the 2026 Francis Marion Undergraduate Mathematics Conference. It contains an optimized schedule model using Graph Theory &amp; Linear Programming to fix Conference Carolinas Women’s Soccer travel inefficiencies. Minimizes non-divisional mileage via integer optimization while keeping a strict round-robin structure. Includes the OpenSolver matrix dataset, presentation, etc.
+This repository is from my research mathematics capstone class (Math 499) at Francis Marion University and was presented at the 2026 Francis Marion Undergraduate Mathematics Conference. It contains an optimized schedule model using Graph Theory &amp; Linear Programming to fix Conference Carolinas Women’s Soccer travel inefficiencies. Minimizes non-divisional mileage via integer optimization while keeping a strict round-robin structure. Includes the OpenSolver matrix dataset, presentation, etc.
 
 # Optimizing Conference Carolinas Women’s Soccer Schedule Using Graph Theory and Linear Programming
 
