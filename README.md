@@ -67,3 +67,5 @@ While division games are locked, **non-divisional matchups** create an uneven sc
 * [Objective Function Concepts](https://www.cuemath.com/algebra/objective-function/)
 * [Microsoft Solver Optimization Documentation](https://support.microsoft.com/en-us/office/define-and-solve-a-problem-by-using-solver-5d1a388f-079d-43ac-a7eb-f63e45925040)
 * [Branch and Bound Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Branch_and_bound)
+* [Spann_FMU.pptx](https://github.com/user-attachments/files/28607154/Spann_FMU.pptx)
+* [poster_fm_math.pptx](https://github.com/user-attachments/files/28607141/poster_fm_math.pptx)
