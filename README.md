@@ -10,7 +10,7 @@ This repository contains an optimized schedule model using Graph Theory &amp; Li
 ---
 
 ## 📌 Project Overview
-This repository contains the optimization model, data structures, and research presentation for overhauling the logistical inefficiencies in the Conference Carolinas Women’s Soccer scheduling system. 
+This repository contains the optimization model, data structures, and research presentation with poster and powerpoint for overhauling the logistical inefficiencies in the Conference Carolinas Women’s Soccer scheduling system. 
 
 By combining **Graph Theory** and **Linear Programming (Integer Optimization)**, this project builds a coordinated framework to minimize overall travel distances for non-divisional matchups while preserving a strict, balanced round-robin structure.
 
@@ -67,5 +67,8 @@ While division games are locked, **non-divisional matchups** create an uneven sc
 * [Objective Function Concepts](https://www.cuemath.com/algebra/objective-function/)
 * [Microsoft Solver Optimization Documentation](https://support.microsoft.com/en-us/office/define-and-solve-a-problem-by-using-solver-5d1a388f-079d-43ac-a7eb-f63e45925040)
 * [Branch and Bound Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Branch_and_bound)
-* [Spann_FMU.pptx](https://github.com/user-attachments/files/28607154/Spann_FMU.pptx)
-* [poster_fm_math.pptx](https://github.com/user-attachments/files/28607141/poster_fm_math.pptx)
+* Powerpoint Presentation: [Spann_FMU.pptx](https://github.com/user-attachments/files/28607154/Spann_FMU.pptx) 
+* Poster: [poster_fm_math.pptx](https://github.com/user-attachments/files/28607141/poster_fm_math.pptx)
+* Data:[FMU Women's Soccer.xlsx](https://github.com/user-attachments/files/28608302/FMU.Women.s.Soccer.xlsx)
+
+
