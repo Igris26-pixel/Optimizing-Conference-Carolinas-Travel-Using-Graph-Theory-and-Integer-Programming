@@ -68,7 +68,7 @@ While division games are locked, **non-divisional matchups** create an uneven sc
 * [Microsoft Solver Optimization Documentation](https://support.microsoft.com/en-us/office/define-and-solve-a-problem-by-using-solver-5d1a388f-079d-43ac-a7eb-f63e45925040)
 * [Branch and Bound Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Branch_and_bound)
 * Powerpoint Presentation: [Spann_FMU.pptx](https://github.com/user-attachments/files/28607154/Spann_FMU.pptx) 
-* Poster: [poster_fm_math (1).pptx] 
+* Poster: [poster_fm_math (1).pptx] (https://github.com/Igris26-pixel/Optimizing-Conference-Carolinas-Travel-Using-Graph-Theory-and-Integer-Programming/blob/64af5181979faf8e423deb93b4ef93a064d65466/poster_fm_math%20(1).pptx)
 * Data:[FMU Women's Soccer.xlsx](https://github.com/user-attachments/files/28608302/FMU.Women.s.Soccer.xlsx)
 
 
